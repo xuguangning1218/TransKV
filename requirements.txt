@@ -1,0 +1,6 @@
+transformers==4.57.1
+lm-eval==0.4.9.1
+datasets==3.6.0
+tqdm==4.67.1
+matplotlib==3.9.2
+evaluate==0.4.5
