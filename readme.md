@@ -15,8 +15,7 @@ Official source code for the paper *“TransKV: A Data-Driven Pruning Method for
 
 ## 🏗️ Overall Architecture
 
-![TransKV](https://github.com/xuguangning1218/TransKV/blob/master/figure/TransKV.png)
-
+![TransKV](https://github.com/xuguangning1218/TransKV/blob/master/figures/TransKV.png)
 ---
 
 ## ⚙️ Environment Setup
