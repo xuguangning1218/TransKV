@@ -146,11 +146,13 @@ results/transkv_LLama3
 ## 📖 Citation
 
 ```bibtex
-@misc{xu2026transkv,
-    title={TransKV: A Data-Driven Pruning Method for Large Foundation Models},
-    author={Guangning Xu and Fanxu Meng and Ruijie Zhou and Michael Ng and Wenjie Pei and Muhan Zhang},
-    year={2026},
-    booktitle={Findings of the Computer Vision and Pattern Recognition Conference},
+@InProceedings{Xu_2026_CVPR,
+    author    = {Xu, Guangning and Meng, Fanxu and Zhou, Ruijie and Ng, Michael K and Pei, Wenjie and Zhang, Muhan},
+    title     = {TransKV: A Data-Driven Pruning Method for Large Foundation Models},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings},
+    month     = {June},
+    year      = {2026},
+    pages     = {2451-2461}
 }
 ```
 
